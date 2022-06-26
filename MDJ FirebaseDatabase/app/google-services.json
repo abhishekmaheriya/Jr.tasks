@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14091488736",
+    "project_id": "mdj-firebasedatabase",
+    "storage_bucket": "mdj-firebasedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14091488736:android:76bcce6a3e9ef7227aef85",
+        "android_client_info": {
+          "package_name": "com.example.mdjfirebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14091488736-8fgu0kpp0v0ovurb7u6pog7praaojgbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDXi9Zpvf7LPJaqRbGrSHeBYHxc9zR6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14091488736-8fgu0kpp0v0ovurb7u6pog7praaojgbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

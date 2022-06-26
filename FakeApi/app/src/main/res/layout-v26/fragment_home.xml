@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    tools:context=".HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/img_get"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:id="@+id/title_get"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_blank_fragment"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_below="@id/img_get"/>
+
+    <TextView
+        android:id="@+id/dollar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dollar"
+        android:textColor="#EF4C4C"
+        android:textSize="16sp"
+        android:layout_below="@id/title_get"/>
+
+    <TextView
+        android:id="@+id/price_get"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_get"
+        android:layout_toRightOf="@+id/dollar"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="5dp"
+        android:text="@string/hello_blank_fragment"
+        android:layout_toEndOf="@+id/dollar" />
+
+    <TextView
+        android:id="@+id/category_get"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/price_get"
+        android:textSize="16sp"
+        android:textColor="@color/purple_700"
+        android:textStyle="italic"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/description_get"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/category_get"
+        android:layout_marginTop="3dp"
+        android:justificationMode="inter_word"
+        android:text="@string/hello_blank_fragment" />
+
+
+    <TextView
+        android:id="@+id/rating_get"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#F16F6F"
+        android:text="@string/hello_blank_fragment"
+        android:layout_below="@+id/description_get"/>
+
+</RelativeLayout>

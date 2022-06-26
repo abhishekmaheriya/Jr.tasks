@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#D7DDDD"
+    android:padding="5dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#DAE4E4E4"
+        android:padding="6dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/txtId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/imgApi"
+        android:textSize="18sp"
+        android:layout_toEndOf="@id/imgApi" />
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/txtId"
+        android:layout_toEndOf="@id/txtId"
+        android:layout_marginStart="5dp" />
+
+     <TextView
+        android:id="@+id/txtrupee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#F45C51"
+        android:text="@string/dollar"
+        android:layout_toRightOf="@id/imgApi"
+        android:layout_below="@id/txtTitle"
+        android:layout_toEndOf="@id/imgApi" />
+
+    <TextView
+        android:id="@+id/txtPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@id/txtrupee"
+        android:layout_below="@id/txtTitle"
+        android:layout_marginStart="5dp"
+        android:layout_toEndOf="@id/txtrupee" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/txtDescription"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@id/txtPrice" />-->
+
+
+<!--    <TextView-->
+<!--        android:id="@+id/txtCategory"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@id/txtDescription" />-->
+
+    <ImageView
+        android:id="@+id/imgApi"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="5dp"/>
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

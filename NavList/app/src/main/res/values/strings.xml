@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavList</string>
+    <string name="navigation_drawer_open">open drawer</string>
+    <string name="navigation_drawer_close">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_camara_fragment">This is camara Fragment</string>
+    <string name="this_is_gallary_fragment">This is gallary fragment</string>
+    <string name="this_is_manage_fragment">This is manage fragment</string>
+    <string name="this_is_share_fragment">This is Share Fragment</string>
+</resources>

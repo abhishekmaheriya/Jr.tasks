@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020677757241",
+    "project_id": "mdj-firestore",
+    "storage_bucket": "mdj-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020677757241:android:5e9a27f3b2fc95cdb9b0e8",
+        "android_client_info": {
+          "package_name": "com.example.mdjfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020677757241-npmjlrhktn2mjpeakje9dknleckbnrc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZpRNHv0BfE-NvFuE7H_yZERahwn6APg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020677757241-npmjlrhktn2mjpeakje9dknleckbnrc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

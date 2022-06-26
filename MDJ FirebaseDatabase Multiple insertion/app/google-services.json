@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915446611550",
+    "project_id": "mdj-firedatabase-multiinsert",
+    "storage_bucket": "mdj-firedatabase-multiinsert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915446611550:android:4ce0f95e9d14f7bc98becf",
+        "android_client_info": {
+          "package_name": "com.example.mdjfirebasedatabasemultipleinsertion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915446611550-bl9nqvhgu20te0135g315v9pv10qgha5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQGUhnWbGIIXCS8lFtuYkmMRJxX-VJts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915446611550-bl9nqvhgu20te0135g315v9pv10qgha5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

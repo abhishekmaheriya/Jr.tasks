@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019784729213",
+    "project_id": "mdj-firebase-image-upload",
+    "storage_bucket": "mdj-firebase-image-upload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019784729213:android:98a3e02bd50d3d7e98d714",
+        "android_client_info": {
+          "package_name": "com.example.mdjfirebaseimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019784729213-pqlqf88f1pfruccb1a5b37qp4lqsdfit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjn-Poxu97uExbardtw3Jy1BirQ7tgq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019784729213-pqlqf88f1pfruccb1a5b37qp4lqsdfit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

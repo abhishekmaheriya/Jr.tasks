@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MDJ Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment1</string>
+    <string name="fragment_2">Fragment 2</string>
+</resources>
